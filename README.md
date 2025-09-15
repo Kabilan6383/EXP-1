@@ -45,29 +45,21 @@ CIRCUIT DIAGRAM:
 
 a.   KVL:
  
-
+"C:\Users\Kabilan\Pictures\Screenshots\Screenshot 2025-09-15 191935.png"
 
 b.  KCL:
+"C:\Users\Kabilan\Pictures\Screenshots\Screenshot 2025-09-15 191625.png"
  
 
 Calculation:
 
 a.   KVL:
  
-
-
-b.  KCL:
-
-
-
-
-Tabulation:
-
-a.   KVL:
- 
-
+"C:\Users\Kabilan\Pictures\WhatsApp Image 2025-09-15 at 19.22.05_5745cda2.jpg"
 
 b.  KCL:
+
+"C:\Users\Kabilan\Pictures\WhatsApp Image 2025-09-15 at 19.22.21_a5b92ae6.jpg"
 
 
 
